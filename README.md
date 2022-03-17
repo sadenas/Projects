@@ -1,4 +1,4 @@
-The files are about my school projects within my Aerospace Engineering Degree if you are interested:
+The files are about some of my school projects within my Aerospace Engineering Degree if you are interested:
 
 MMRTG: This project was for my Space Systems Design class. Our team's mission was to send a rover to Europa, Jupiter's moon, and attempt to find any sign of life in the form of biological cells on the moon's water sources. My contribution was to plan how the rover would make it to Jupiter in the first place. After extended research I decided on the MMRTG, multi-mission radioisotope thermoelectric generator, because it was efficient for the long disance plus it wasn't solar dependent. I learned that the path towards Jupiter consists of disances that are both energy intensive and don't have solar power as reliable source of energy. I wish I had my presentation still with me to demonstrate, but I did find this cool 3D Model I made on SolidWorks.
 
